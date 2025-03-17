@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import img from "../assets/images/codeathon.png";
+import img from "../assests/images/codeathon.png";
 import { TimelineLayout } from "../components/ui/timeline-layout";
 import {
   FaCalendarAlt,
