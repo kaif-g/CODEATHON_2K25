@@ -1,7 +1,7 @@
 {
   
   "homepage": "https://kaif-g.github.io/CODEATHON_2K25",
-  
+   
   "name": "sietk-tc",
   
   "private": true,
@@ -11,6 +11,7 @@
   "type": "module",
   
   "scripts": {
+    
   
     
   "dev": "vite",

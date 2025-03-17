@@ -4,6 +4,8 @@ import Hackathon from "./pages/Hackathon";
 import Schedule from "./pages/Schedule";
 import { HackathonLayout } from "./components/HackathonLayout";
 
+
+
 export default function App() {
   return (
     <BrowserRouter>
